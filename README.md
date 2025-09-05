@@ -1,4 +1,4 @@
-# Desafio criando màquina Virtuais na Azure.
+# Desafio criando máquina Virtual na Azure.
 
 Seguindo a conclusāo do modulo. Vimos os beneficios da nuvem.
 Onde foram explanados sobre escalibilidade, elasticidade e o SLA.
